@@ -1,0 +1,12 @@
+# Optimal Model Configuration
+# Generated: 2025-12-07 04:58:25
+# Temperature Baseline: 10.66°C
+# Condition Baseline: 36.89%
+
+LookbackWindow=72
+Similarity=0.750000
+TemporalDecay=0.99900001
+Temperature=0.000000
+ExplorationRate=0.000000
+EnableReplay=False
+EnableDelta=False
